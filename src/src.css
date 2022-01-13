@@ -41,6 +41,7 @@ h3 {
 #contact-me {
   border: 1px solid white;
   border-radius: 10px;
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 255, 0.1);
   padding: 20px;
   background-color: var(--primary-color);
   text-decoration: none;
@@ -54,6 +55,7 @@ h3 {
 #about-me {
   border: 1px solid var(--primary-color);
   border-radius: 10px;
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 255, 0.1);
   padding: 20px;
   background-color: white;
   text-decoration: none;
